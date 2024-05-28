@@ -15,4 +15,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 quim.doiche@gmail.com
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F620933867387476533%2F&psig=AOvVaw1EsYcU0SirXsS447T_4Mzo&ust=1716982530194000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjJ5MSgsIYDFQAAAAAdAAAAABAE*)
+![](https://i.pinimg.com/originals/89/2c/b0/892cb0a20c2722b86b995158ca46b543.gif)
