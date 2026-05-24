@@ -1,18 +1,26 @@
-## THE JOCA I
+# 👋 Hello, I'm Joaquim Doiche
 
+## 🚀 Welcome to my profile
 
-### Boas vindas ao meu perfil
+My name is Joaquim, and I am currently studying at **PEI Lourdes Pereira**.
+I am developing my skills in **JavaScript** and starting my journey in the world of programming.
 
-Meu nome é Joaquim (THEJOCA I)
+## 💻 About me
 
-Estou estudando na  PEI LOURDES PEREIRA
+* 📚 Systems Development student
+* 🌱 Currently learning: **JavaScript, HTML, CSS**
+* 🎯 Focused on improving my logic and building real projects
+* 📂 Using this space to organize and share my projects
 
-Estou me desenvolvendo na linguagem JavaScript
+## 🛠️ Technologies
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+* HTML
+* CSS
+* JavaScript
 
-### Você entrar em contato comigo
+## 📫 Contact me
 
-quim.doiche@gmail.com
+📧 [joaquimdesouzalencionedoiche@gmail.com](mailto:joaquimdesouzalencionedoiche@gmail.com)
+
 
 ![](https://i.pinimg.com/originals/89/2c/b0/892cb0a20c2722b86b995158ca46b543.gif)
