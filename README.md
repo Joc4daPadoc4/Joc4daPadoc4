@@ -28,6 +28,3 @@ I am developing my skills in **JavaScript** and starting my journey in the world
   <img src="https://i.pinimg.com/originals/89/2c/b0/892cb0a20c2722b86b995158ca46b543.gif" width="300">
 </p>
 
-
-
-![](https://i.pinimg.com/originals/89/2c/b0/892cb0a20c2722b86b995158ca46b543.gif)
